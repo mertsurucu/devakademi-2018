@@ -1,6 +1,6 @@
 # Sahibinden.com #dev akademi
 
-I have done 2 different projects. However, second was not tested with the given datas.
+I have done 2 different projects. However, second one was not tested with the given data.
 ## First Project
 According to person features, it predicts the possible ad category that he/she could click. (Random Forest Algorithm)
 To use this project first, run "prepare_dataset.py" file to prepare the data with features("education", "job", "marital_status",
